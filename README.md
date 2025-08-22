@@ -1,12 +1,5 @@
 
-<style>
-  /* Fonte cyber grande */
-  body, h1, h2, h3, p, li {
-    font-family: 'Arvo', 'Fira Code', monospace;
-    font-size: 16px;
-    color: #8b5cf6; /* roxo neon */
-  }
-</style>
+
 
 <h1 align="center">
 <img align="center" src="svg.svg"> > PEDRO SOARES dev _
