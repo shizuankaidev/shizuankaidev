@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<img align="center" src="svg.svg"> > PEDRO SOARES dev _
+<img align="center" src="svg.svg">
 </h1>
 
 <p align="center">
