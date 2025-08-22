@@ -1,4 +1,16 @@
-<h1 align="center">Pedro Soares Assis ༼ つ ◕_◕ ༽つ</h1>
+
+<style>
+  /* Fonte cyber grande */
+  body, h1, h2, h3, p, li {
+    font-family: 'Arvo', 'Fira Code', monospace;
+    font-size: 16px;
+    color: #8b5cf6; /* roxo neon */
+  }
+</style>
+
+<h1 align="center">
+<img align="center" src="svg.svg"> > PEDRO SOARES dev _
+</h1>
 
 <p align="center">
   💻 Dev de infraestrutura e software — <b>redes</b>, <b>segurança</b> e <b>desempenho</b>.<br/>
