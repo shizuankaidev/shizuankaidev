@@ -13,7 +13,6 @@
 
 ---
 
-## 🔧 Stack & Ferramentas
 
 <p align="center">
   <!-- Sistemas / Infra -->
