@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ O que eu faço
+
 - **Backend & APIs**: Django REST / Node.js, autenticação JWT, documentação Swagger/OpenAPI.  
 - **Infra & DevOps**: Docker/K8s, Nginx, CI/CD, monitoramento, redes e servidores Linux.  
 - **Segurança**: labs de **pentest**, hardening e análise de vulnerabilidades.  
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Projetos que curto levantar
+
 - 🌑 **Sites e painéis dark**  
 - ⚙️ **APIs seguras e bem documentadas**  
 - 🤖 **Ferramentas de automação**  
@@ -64,7 +64,6 @@
 
 ---
 
-## 📫 Contato
 
 <p align="center">
   <a href="mailto:pedro.seuemail@exemplo.com">
