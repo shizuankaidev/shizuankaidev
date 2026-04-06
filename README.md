@@ -33,7 +33,6 @@
   <!-- 🌐 Frontend -->
   <img alt="HTML5" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS3" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img alt="TailwindCSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
   <img alt="React" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
 
   <!-- 🗄️ Banco / Cache -->
@@ -51,14 +50,6 @@
   <!-- 🎮 Game Dev -->
   <img alt="Godot" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"/>
   <img alt="Blender" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/>
-
-  <!-- 🎨 Design -->
-  <img alt="Krita" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/krita/krita-original.svg"/>
-  <img alt="Aseprite" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aseprite/aseprite-original.svg"/>
-
-  <!-- 📐 Engenharia / CAD -->
-  <img alt="AutoCAD" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg"/>
-  <img alt="CorelDRAW" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-plain.svg"/>
 </p>
 
 <p align="center">
