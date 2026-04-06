@@ -73,9 +73,6 @@
   <a href="https://wa.me/5534996385917" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-0b0b0f?style=for-the-badge&logo=whatsapp&logoColor=8b5cf6"/>
   </a>
-  <a href="https://discord.gg/seu-convite" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-0b0b0f?style=for-the-badge&logo=discord&logoColor=8b5cf6"/>
-  </a>
 </p>
 
 <p align="center">
