@@ -47,12 +47,12 @@
 ---
 
 
-- **Backend & APIs**: Django REST / Node.js, autenticação JWT, documentação Swagger/OpenAPI.  
-- **Infra & DevOps**: Docker/K8s, Nginx, CI/CD, monitoramento, redes e servidores Linux.  
+- **Backend & APIs**: Django REST / Node.js, autenticação JWT, documentação Swagger/Postman.  
+- **Infra & DevOps**: Docker/K8s, Nginx, CI/CD, Prometheus + grafana, redes e servidores Linux.  
 - **Segurança**: labs de **pentest**, hardening e análise de vulnerabilidades.  
-- **Game Dev**: jogos com **Godot/GDScript** (single/multiplayer), assets e builds.  
-- **Automação**: bots, ETL, scripts e produtividade.  
-- **Arquitetura**: desenho de **sistemas escaláveis**, bancos relacionais e mensageria.  
+- **Game Dev**: jogos com **Godot/GDScript** (single), Level Design, Blender, Aseprite.  
+- **Outros**: bots, Pentest com Kali/Arch Linux em servidores, Mentoria.  
+- **Arquitetura**: desenho de **sistemas escaláveis**, bancos relacionais e mensageria com Redis.  
 
 ---
 
@@ -60,17 +60,18 @@
 - 🌑 **Sites e painéis dark**  
 - ⚙️ **APIs seguras e bem documentadas**  
 - 🤖 **Ferramentas de automação**  
-- 🎮 **Jogos em GDScript**  
+- 🎮 **Jogos em GDScript**
+- 🖌️ **Artist**
 
 ---
 
 
 <p align="center">
-  <a href="mailto:pedro.seuemail@exemplo.com">
+  <a href="mailto:pedrosoares@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0b0b0f?style=for-the-badge&logo=gmail&logoColor=8b5cf6"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=8b5cf6"/>
+  <a href="https://wa.me/34996385917" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0b0b0f?style=for-the-badge&logo=whatsapp&logoColor=8b5cf6"/>
   </a>
   <a href="https://discord.gg/seu-convite" target="_blank">
     <img src="https://img.shields.io/badge/Discord-0b0b0f?style=for-the-badge&logo=discord&logoColor=8b5cf6"/>
