@@ -8,7 +8,7 @@
 <p align="center">
   💻 Dev de infraestrutura e software — <b>redes</b>, <b>segurança</b> e <b>desempenho</b>.<br/>
   🎮 Crio <b>jogos</b> (Godot), <b>APIs</b> (Django/Node), <b>automação</b> (Python) e <b>arquiteturas</b> escaláveis.<br/>
-  ⚡ <i>Desenvolvo por prazer desde sempre.</i>
+  ⚡ <i>Até onde você pode ir ??</i>
 </p>
 
 ---
