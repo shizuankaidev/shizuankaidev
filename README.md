@@ -67,7 +67,7 @@
 
 
 <p align="center">
-  <a href="mailto:pedrosoares10100@gmail.com">
+  <a href="mailto:pedrosoares10100@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0b0b0f?style=for-the-badge&logo=gmail&logoColor=8b5cf6"/>
   </a>
   <a href="https://wa.me/5534996385917" target="_blank">
