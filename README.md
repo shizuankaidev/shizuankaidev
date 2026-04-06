@@ -15,26 +15,50 @@
 
 
 <p align="center">
-  <!-- Sistemas / Infra -->
+  <!-- 🐧 Sistemas / Infra -->
   <img alt="Linux" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
   <img alt="Debian" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg"/>
   <img alt="Ubuntu" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"/>
   <img alt="Docker" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
   <img alt="Kubernetes" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
   <img alt="NGINX" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"/>
-  <!-- Linguagens / Back -->
+
+  <!-- ⚙️ Backend / APIs -->
   <img alt="Python" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img alt="Django" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>
   <img alt="Node.js" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
   <img alt="TypeScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img alt="JavaScript" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <!-- Game Dev -->
-  <img alt="Godot" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"/>
-  <!-- DB -->
+
+  <!-- 🌐 Frontend -->
+  <img alt="HTML5" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img alt="CSS3" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img alt="TailwindCSS" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+  <img alt="React" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+
+  <!-- 🗄️ Banco / Cache -->
   <img alt="PostgreSQL" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-  <!-- Testes / API -->
+  <img alt="Redis" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg"/>
+
+  <!-- 🔌 APIs / Testes -->
   <img alt="Postman" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"/>
   <img alt="Swagger" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"/>
+
+  <!-- 📊 Observabilidade -->
+  <img alt="Prometheus" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"/>
+  <img alt="Grafana" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"/>
+
+  <!-- 🎮 Game Dev -->
+  <img alt="Godot" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"/>
+  <img alt="Blender" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg"/>
+
+  <!-- 🎨 Design -->
+  <img alt="Krita" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/krita/krita-original.svg"/>
+  <img alt="Aseprite" height="34" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aseprite/aseprite-original.svg"/>
+
+  <!-- 📐 Engenharia / CAD -->
+  <img alt="AutoCAD" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/autocad/autocad-original.svg"/>
+  <img alt="CorelDRAW" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coreldraw/coreldraw-plain.svg"/>
 </p>
 
 <p align="center">
